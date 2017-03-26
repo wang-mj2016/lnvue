@@ -13,7 +13,7 @@
 			</div>
 			<div class="content-right">
 				<div class="pay" :class="payClass">
-					{{minPrice}}
+					{{payDesc}}
 				</div>
 			</div>
 		</div>
